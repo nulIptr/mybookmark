@@ -4,7 +4,7 @@
 JD.COM http://www.jd.com/<br>
 it之家 http://www.ithome.com/<br>
 nga http://bbs.ngacn.cc/<br>
-微博 http://weibo.com/u/5029803850/home?topnav=1&wvr=6<br>
+微博 http://weibo.com<br>
 鼠绘 http://www.ishuhui.com/ <br>
 汉化组 http://hanhuazu.cc/<br>
 知乎 http://www.zhihu.com/<br>
